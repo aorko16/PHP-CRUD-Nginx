@@ -1,11 +1,8 @@
-
-PHP CRUD app (single file) ---Project
-
 php-crud-docker/
 ├── html/
-│   └── index.php          # PHP CRUD app (single file)
+│ └── index.php # PHP CRUD app (single file)
 ├── Dockerfile
-├── default.conf
+├── default.conf # Nginx configuration
 └── docker-compose.yml
 
 
